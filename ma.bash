@@ -36,11 +36,11 @@ trap _SMATRPSIGNAL_ HUP INT TERM
 trap _SMATRPQUIT_ QUIT 
 
 cd "$JDR"
-_AT_ abstract-art da9f047c50af9df02a2233b2a96f43a77e2e4e17
 _AT_ chiralcode/Android-Live-Wallpaper-Template 2bb67a9cca2ddb5f75093e6b285bc9271c71607e
 _AT_ emmaguy/FruityLiveWallpaper b74f15b9d01cf8cef5569377a593fa5373cb0207
 _AT_ givanse/Flowords c4c01cf68531c4b4270926b0536ec20a5407dc9a
 _AT_ givanse/Live-Wallpaper 0c3195e8354b1b9287461b8fccfba4fb1a84f56f
+_AT_ gwhiteside/abstract-art da9f047c50af9df02a2233b2a96f43a77e2e4e17
 _AT_ jacekmusial/SeismoWallpaper b9ad8d72ef46c3479160f5a60de70b10e353dbbb
 _AT_ kirill-grouchnikov/android-live-wallpaper e73040e40fb13b46c9a3a30e5d8cfb1e1a3c7d53
 _AT_ matthewmichihara/lanterns-live-wallpaper ccbda7b46aed1716be5322b47326203092e86494
