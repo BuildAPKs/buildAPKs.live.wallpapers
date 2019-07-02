@@ -35,6 +35,7 @@ trap _SMATRPEXIT_ EXIT
 trap _SMATRPSIGNAL_ HUP INT TERM 
 trap _SMATRPQUIT_ QUIT 
 
+cd "$JDR"
 _AT_ abstract-art da9f047c50af9df02a2233b2a96f43a77e2e4e17
 _AT_ chiralcode/Android-Live-Wallpaper-Template 2bb67a9cca2ddb5f75093e6b285bc9271c71607e
 _AT_ emmaguy/FruityLiveWallpaper b74f15b9d01cf8cef5569377a593fa5373cb0207
