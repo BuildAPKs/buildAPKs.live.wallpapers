@@ -48,8 +48,8 @@ _AT_ matthewmichihara/lanterns-live-wallpaper ccbda7b46aed1716be5322b47326203092
 _AT_ matthewmichihara/spontaneous-combustion cc602b8ab3cf97f3d561f00e6c12e15b50a7b3ff
 _AT_ MorpheusLee/vertex-wallpaper a26e413e3aac17b84e547b8ecb89358614111544
 _AT_ orac/bubblechamber 305476d71faf7122258a500353a68fd5fedff81d
-_AT_ PuZZleDucK/android-target-live-wallpaperi 4c59a6086942fecffb21b8ed10725d383838a464
+_AT_ PuZZleDucK/android-target-live-wallpaper 4c59a6086942fecffb21b8ed10725d383838a464
 _AT_ PuZZleDucK/Flare-Live-Wallpaper cadecfa9f035e39a96e87adb5a973ca3a91ef4c3 
 _AT_ ssaurel/android-clock-livewallpaper 30d8131e0fe8c5787673b9e6f0fd5abc703749aa
 
-#OEF
+# ma.bash OEF
