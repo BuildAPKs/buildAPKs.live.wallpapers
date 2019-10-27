@@ -12,5 +12,4 @@ cd && git clone https://github.com/BuildAPKs/buildAPKs
 ```
 
 https://buildapks.github.io/buildAPKs.live.wallpapers/
-
-#OEM
+<!-- README.md OEF -->
