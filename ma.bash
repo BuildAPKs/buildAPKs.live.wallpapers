@@ -9,8 +9,9 @@ shopt -s nullglob globstar
 cd "$JDR"
 # _AT_ username/repository commit
 _AT_ MorpheusLee/vertex-wallpaper a26e413e3aac17b84e547b8ecb89358614111544
-_AT_ PuZZleDucK/android-target-live-wallpaper 4c59a6086942fecffb21b8ed10725d383838a464
+_AT_ Northkastt/android-madrepatria 52d3fb015ceffcc55072babe62d2f8ed80b52ece
 _AT_ PuZZleDucK/Flare-Live-Wallpaper cadecfa9f035e39a96e87adb5a973ca3a91ef4c3 
+_AT_ PuZZleDucK/android-target-live-wallpaper 4c59a6086942fecffb21b8ed10725d383838a464
 _AT_ cameronmurphy/super-mario-live-wallpaper 7ca9dfadfb924ad7441564d242b8ef6a6139d941
 _AT_ chiralcode/Android-Live-Wallpaper-Template 2bb67a9cca2ddb5f75093e6b285bc9271c71607e
 _AT_ emmaguy/FruityLiveWallpaper b74f15b9d01cf8cef5569377a593fa5373cb0207
