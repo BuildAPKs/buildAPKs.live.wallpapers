@@ -8,6 +8,7 @@ shopt -s nullglob globstar
 . "$RDR"/scripts/bash/shlibs/trap.bash 210 211 212
 cd "$JDR"
 # _AT_ username/repository commit
+_AT_ cameronmurphy/super-mario-live-wallpaper 7ca9dfadfb924ad7441564d242b8ef6a6139d941
 _AT_ chiralcode/Android-Live-Wallpaper-Template 2bb67a9cca2ddb5f75093e6b285bc9271c71607e
 _AT_ emmaguy/FruityLiveWallpaper b74f15b9d01cf8cef5569377a593fa5373cb0207
 _AT_ givanse/Flowords c4c01cf68531c4b4270926b0536ec20a5407dc9a
