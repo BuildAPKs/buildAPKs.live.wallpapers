@@ -8,6 +8,7 @@ shopt -s nullglob globstar
 . "$RDR"/scripts/bash/shlibs/trap.bash 210 211 212
 cd "$JDR"
 # _AT_ username/repository commit
+_AT_ BeanDirt/LivePaperProofOfConcept fbe5514909615b7d01abb55517ac9af8ee09a6e1
 _AT_ MorpheusLee/vertex-wallpaper a26e413e3aac17b84e547b8ecb89358614111544
 _AT_ Northkastt/android-madrepatria 52d3fb015ceffcc55072babe62d2f8ed80b52ece
 _AT_ PuZZleDucK/Flare-Live-Wallpaper cadecfa9f035e39a96e87adb5a973ca3a91ef4c3
